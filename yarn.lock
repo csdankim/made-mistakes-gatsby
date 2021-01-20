@@ -8254,12 +8254,12 @@ gatsby-page-utils@^0.6.0:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-catch-links@^2.3.15:
-  version "2.3.15"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-2.3.15.tgz#d5e0a945d193aee2261e995e8c6f07d322bd42ab"
-  integrity sha512-U8ilBTFKxj5NMj2Cw4Xvawxpe+Rlxd+o11m3gF8fEboqdqcCS6Gh1zG45JkJ3Du6G27nF4DbTI1JRpwi96vFYA==
+gatsby-plugin-catch-links@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-2.9.0.tgz#e107b35d79e20c41b5c47b021ee9b16271fdf1f4"
+  integrity sha512-PIOu7N5IAIBfRY8W2Kzs34+kAf8Oa0jz1nJfoxyQKvPdPQZDw5Fur23Go64QnhxbE9EHr9XUmFZE5b+7vMl4Mg==
   dependencies:
-    "@babel/runtime" "^7.11.2"
+    "@babel/runtime" "^7.12.5"
     escape-string-regexp "^1.0.5"
 
 gatsby-plugin-css-customs@^0.4.0:
